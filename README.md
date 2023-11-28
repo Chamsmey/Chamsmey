@@ -1,2 +1,2 @@
 # Hi there 
-## I am cham as a web developer
+## I am cham, a web developer
